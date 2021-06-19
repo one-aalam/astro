@@ -1,5 +1,12 @@
 # astro
 
+## 0.13.11
+
+### Patch Changes
+
+- 6573bea: Fixed README header aspect ratio
+- 2671b6f: Fix [472](https://github.com/snowpackjs/astro/issues/472) by not injecting `astro-*` scoped class unless it is actually used
+
 ## 0.13.10
 
 ### Patch Changes
